@@ -1,17 +1,15 @@
 ---
-title: My Site
+title: Eric Masi's Blog
 toc: false
 ---
 
-This is the landing page.
+Hello 👋
+
+Welcome to my blog.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+{{< card link="articles" title="Articles" icon="book-open" >}}
+{{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).

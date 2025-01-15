@@ -18,8 +18,8 @@ markup:
 
 menu:
   main:
-    - name: Articles
-      pageRef: /articles
+    - name: Blog
+      pageRef: /blog
       weight: 1
     - name: About
       pageRef: /about
